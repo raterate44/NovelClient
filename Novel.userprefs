@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ADRoot.cs">
+    <Files>
+      <File FileName="Assets/Scripts/NovelManager.cs" Line="19" Column="33" />
+      <File FileName="Assets/Scripts/ADRoot.cs" Line="505" Column="1" />
+      <File FileName="Assets/Scripts/StorySpeakJson.cs" Line="94" Column="112" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
